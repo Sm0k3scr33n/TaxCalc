@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TaxCalc</string>
+    <string name="action_settings">Settings</string>
+    <string name="current_location">Use GPS</string>
+    <string name="welcomeMessage">Welcome to TaxCalc</string>
+    <string name="instMessage">Either input your zip or select current location.  Then choose type of item and the amount of purchase</string>
+    <string name="taxDisplay">Tax Rate at Zip Code</string>
+    <string name="taxDisplayItem">Tax Rate of the Item</string>
+    <string name="taxRateTotal">Total Amount of Tax</string>
+    <string name="totalAmountText">Total amount of Purchase</string>
+    <string name="calcGoText">TaxCalc</string>
+    <string name="promptText">Please select</string>
+    <string name="totalStateText">Total Amount of Tax for Zip Code</string>
+    <string name="totalItemText">Total Amount of Item Tax</string>
+    <string name="submit">Submit</string>
+    <string name="selectItem">Select the type of item:</string>
+    <string-array name="itemList">
+        <item>Select Item</item>
+        <item>Clothes</item>
+        <item>Food</item>
+        <item>Electronics</item>
+    </string-array>
+
+</resources>
